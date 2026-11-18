@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API = "http://localhost:5000/api/posts";
+const API = "https://https://mern-blog-backend-3b9y.onrender.com/api/posts";
 
 function App() {
 
